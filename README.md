@@ -15,5 +15,5 @@ currency. You can even save your progress until the next time you get DDoS'ed or
 <h2>TODO:</h2>
 <p>Better physics</p>
 <h2>Note</h2>
-<p>While I acknoeledge that this is not one of my most professional endevors into coding, it did teach me a lot about the hava language 
+<p>While I acknoeledge that this is not one of my most professional endeavors into coding, it did teach me a lot about the Java language 
 and programming in general, so I decided to upload it here anyways.</p>
